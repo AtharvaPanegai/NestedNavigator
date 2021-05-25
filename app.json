@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "nestednaviagtors.app.in"
     },
     "web": {
       "favicon": "./assets/favicon.png"
