@@ -9,7 +9,7 @@ const HomeScreen = ({ navigation }) => {
       <Button
         title='Go to Google'
         onPress={() => {
-          navigation.navigate("PlayGround");
+          navigation.navigate("AppTab",{screen : "ScreenTwo"});
         }}
       />
     </View>
